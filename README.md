@@ -7,4 +7,5 @@ It is Hacktoberfest 2025 friendly, with medium-level issues for contributors, in
 * Add/Delete Books
 * Issue/Return Books
 * Display all Books and Sections
+
 Perfect for contributors looking to practice DSA in C, linked list manipulations, and real-world project structure.
